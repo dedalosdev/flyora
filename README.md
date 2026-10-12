@@ -3,23 +3,11 @@ Flyora is an open-source flight boarding pass app built with React Native and Ex
 
 
 # instalation instructions
-npx create-expo-app --template
-
-Choose a template: Blank (Typescript)
-
-What is your app named? › flyora
-
-Select an Expo SDK version: › Latest (SDK 57)
-
-You are creating a project inside of an existing Git repository. Skip initializing a new git repository? … yes
+git clone https://github.com/dedalosdev/flyora.git
 
 cd flyora
 
-npx expo install react-native-qrcode-svg
-
-npx expo install react-native-svg
-
-npx expo install expo-font @expo-google-fonts/poppins
+npm i or npm install 
 
 # run application
 npx expo start
