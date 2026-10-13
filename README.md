@@ -13,3 +13,14 @@ npm i or npm install
 npx expo start
 
 type 'a' key to run android emulator
+
+
+## License
+
+Flyora is an open-source project licensed under the MIT License.
+
+You are free to use, copy, modify, distribute, sublicense, and
+commercialize this project for personal, educational, or commercial
+purposes, subject to the terms of the MIT License.
+
+See the [LICENSE](./LICENSE) file for the complete license text.
